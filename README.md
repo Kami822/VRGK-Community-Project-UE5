@@ -14,7 +14,8 @@ Also see the MPL2 FAQ: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
 Content that is provided by Epic Games and the Unreal Engine itself, such as the Mannequin Skeletal Mesh and Hand, is subject to the Epic Content and/or Unreal Engine EULA.
 
 ===========================
+
 This version has been possible because of the [video of VR Experience](https://youtu.be/YKXwHYGaCqg?si=UKcNqGvX0eMvllUY) that explain step by step how to port the project to unreal 5.3. I only have follow their steps and export the project compiled in Unreal Engine 5.3
 
-It is needed to have installed the plugin Meta XR
+It is needed to have installed the plugin Meta XR that can be downloaded [here](https://developer.oculus.com/downloads/package/unreal-engine-5-integration/)
 
